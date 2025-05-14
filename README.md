@@ -1,7 +1,6 @@
-Hey :D
+Hello! I'm Gustavo, a Brazilian software development student with a strong focus on continuous learning and technical growth. 
+I have a medium level of experience and am currently focused on deepening my understanding of programming concepts, building personal projects, and exploring areas like web development and software architecture.
 
-So... my name is Gustavo, i'm currently learning web development mainly with HTML, CSS and JS, but i also got some knowledge in NodeJS and SQL. My future plans are to learn React and maybe Game Development, but the second one is a more secondary project.
+I’m driven by curiosity, problem-solving, and the desire to create clean, functional, and user-centered applications. Outside of programming, I enjoy activities that challenge my mind and creativity, such as chess, writing, and music.
 
-You can reach me in my e-mail: zuingustavo206@gmail.com
-
-And that's pretty much it... bye bye <3
+I'm always open to learning opportunities, collaboration, and constructive feedback as I continue to grow in the tech field.
