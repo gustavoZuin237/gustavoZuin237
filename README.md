@@ -1,6 +1,12 @@
-Hello! I'm Gustavo, a Brazilian software development student with a strong focus on continuous learning and technical growth. 
-I have a medium level of experience and am currently focused on deepening my understanding of programming concepts, building personal projects, and exploring areas like web development and software architecture.
+### Opa, tudo bem? 👍
 
-I’m driven by curiosity, problem-solving, and the desire to create clean, functional, and user-centered applications. Outside of programming, I enjoy activities that challenge my mind and creativity, such as chess, writing, and music.
+Boas-vindas ao meu GitHub. 
+Sinta-se à vontade para explorar meus projetos públicos, mandar uma mensagem ou colaborar em algum aspecto com meus projetos (pode pedir colaboração também!).
+Sou apaixonado por arte, filosofia, a experiência humana e por tecnologia, especialmente na análise dos efeitos da tecnologia nos outros pilares citados.
 
-I'm always open to learning opportunities, collaboration, and constructive feedback as I continue to grow in the tech field.
+- Estou trabalhando para a prefeitura de Taubaté como estagiário de informática
+- Estou cursando uma graduação em Análise e Desenvolvimento de Sistemas, que complementa meu curso técnico na mesma área
+- Estou aprofundando meus conhecimentos em Java e C#, hardware, servidores Ubuntu e arquitetura de redes
+- No meu tempo livre, desenvolvo projetos que unem arte e tecnologia, como um jogo web de batalha com cartas chamado _Cardbound_ e um aplicativo baseado em Flutter para leitura de histórias em quadrinhos do meu próprio multiverso, _Wobbles_!
+
+- Contato: aceito contato por e-mail no endereço "zuingustavo206@gmail.com" ou mensagens pelo LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-zuin)
